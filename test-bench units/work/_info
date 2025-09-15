@@ -1,0 +1,269 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/WAKED/Desktop/scalartestbench
+vcontrol_unit
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 8 yarp_pkg 0 22 :A`f:7;C2GNb4=]GO^X:Y1
+Z2 !s110 1747051429
+!i10b 1
+!s100 HdEnfSURDe07g0ij??iG`3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=^<c`M8]jfj<>D7GJmZhU1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z5 dC:/Users/WAKED/Desktop/vectortestbench
+w1743503081
+8C:/Users/WAKED/Desktop/vectortestbench/control_unit.sv
+FC:/Users/WAKED/Desktop/vectortestbench/control_unit.sv
+!i122 9
+L0 3 241
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1747051429.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/control_unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/control_unit.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vdata_mem
+R0
+R1
+Z10 !s110 1747119030
+!i10b 1
+!s100 fKf5SHD7z[T@:_`UoHW3`2
+R3
+I`mX]X`biL60I3eF2RIWTz0
+R4
+S1
+R5
+w1744007270
+8C:/Users/WAKED/Desktop/vectortestbench/data_mem.sv
+FC:/Users/WAKED/Desktop/vectortestbench/data_mem.sv
+!i122 17
+L0 3 95
+R6
+r1
+!s85 0
+31
+Z11 !s108 1747119030.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/data_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/data_mem.sv|
+!i113 1
+R8
+R9
+vdecode
+R0
+R1
+R2
+!i10b 1
+!s100 _IG4CWL2Rj7d@0[ge`Xga0
+R3
+IUk3PW^c`MN<2D_XmZ2g9;1
+R4
+S1
+R5
+w1743495052
+8C:/Users/WAKED/Desktop/vectortestbench/decode.sv
+FC:/Users/WAKED/Desktop/vectortestbench/decode.sv
+!i122 10
+L0 3 128
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/WAKED/Desktop/vectortestbench/decode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/decode.sv|
+!i113 1
+R8
+R9
+vmemory
+R0
+R10
+!i10b 1
+!s100 [z@@ZbBR3`610AAS<EQn?3
+R3
+IVn9zB64aec]97iGnecm:U3
+R4
+S1
+R5
+w1745240080
+8C:/Users/WAKED/Desktop/vectortestbench/memory.sv
+FC:/Users/WAKED/Desktop/vectortestbench/memory.sv
+!i122 18
+L0 2 80
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/WAKED/Desktop/vectortestbench/memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/memory.sv|
+!i113 1
+R8
+R9
+vtb_decode
+R0
+R1
+!s110 1747050469
+!i10b 1
+!s100 6AgJ0klE3Hz^mZz]S2CkI0
+R3
+I>IiBD1FOhDzcZ<`SWco`c0
+R4
+S1
+R5
+w1747050442
+8C:/Users/WAKED/Desktop/vectortestbench/tb_decode.sv
+FC:/Users/WAKED/Desktop/vectortestbench/tb_decode.sv
+!i122 2
+L0 3 47
+R6
+r1
+!s85 0
+31
+!s108 1747050469.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/tb_decode.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/tb_decode.sv|
+!i113 1
+R8
+R9
+vtb_decode_control_unit
+R0
+R1
+!s110 1747051500
+!i10b 1
+!s100 `e1KVkBAlEVS4gfNc_KOS0
+R3
+IzXaJH2c1gA8zo@hKZCdPP0
+R4
+S1
+R5
+w1747051495
+8C:/Users/WAKED/Desktop/vectortestbench/tb_decode_control_unit.sv
+FC:/Users/WAKED/Desktop/vectortestbench/tb_decode_control_unit.sv
+!i122 12
+L0 3 108
+R6
+r1
+!s85 0
+31
+!s108 1747051500.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/tb_decode_control_unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/tb_decode_control_unit.sv|
+!i113 1
+R8
+R9
+vtb_dual_memory
+R0
+R1
+R10
+!i10b 1
+!s100 ?8fPYz^;oI;4j]?Lh7XoB3
+R3
+IGL404U3[l0X5NF3i[]56c0
+R4
+S1
+R5
+w1747118187
+8C:/Users/WAKED/Desktop/vectortestbench/tb_dual_memory.sv
+FC:/Users/WAKED/Desktop/vectortestbench/tb_dual_memory.sv
+!i122 19
+L0 3 104
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/WAKED/Desktop/vectortestbench/tb_dual_memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/tb_dual_memory.sv|
+!i113 1
+R8
+R9
+vtb_valu
+R0
+R1
+!s110 1747053652
+!i10b 1
+!s100 :N0ZoR?1L`O0]8SmQ6Q`S1
+R3
+I4F77KizVfHOdKz]H<[UB52
+R4
+S1
+R5
+w1747053642
+8C:/Users/WAKED/Desktop/vectortestbench/tb_valu.sv
+FC:/Users/WAKED/Desktop/vectortestbench/tb_valu.sv
+!i122 15
+L0 3 62
+R6
+r1
+!s85 0
+31
+!s108 1747053652.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/tb_valu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/tb_valu.sv|
+!i113 1
+R8
+R9
+vvalu
+R0
+R1
+!s110 1747053511
+!i10b 1
+!s100 <JK0o7mMWQX0I8V9LOTh]1
+R3
+I[JMU01@P2BATLP[F:^zAL2
+R4
+S1
+R5
+w1743754710
+8C:/Users/WAKED/Desktop/vectortestbench/valu.sv
+FC:/Users/WAKED/Desktop/vectortestbench/valu.sv
+!i122 14
+L0 3 85
+R6
+r1
+!s85 0
+31
+!s108 1747053510.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/valu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/valu.sv|
+!i113 1
+R8
+R9
+Xyarp_pkg
+R0
+!s110 1747119024
+!i10b 1
+!s100 mU1QY0KW<EE[13Z;_n@eE2
+R3
+I:A`f:7;C2GNb4=]GO^X:Y1
+V:A`f:7;C2GNb4=]GO^X:Y1
+S1
+R5
+w1743503054
+8C:/Users/WAKED/Desktop/vectortestbench/yarp_pkg.sv
+FC:/Users/WAKED/Desktop/vectortestbench/yarp_pkg.sv
+!i122 16
+L0 1 0
+R6
+r1
+!s85 0
+31
+!s108 1747119024.000000
+!s107 C:/Users/WAKED/Desktop/vectortestbench/yarp_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/WAKED/Desktop/vectortestbench/yarp_pkg.sv|
+!i113 1
+R8
+R9
